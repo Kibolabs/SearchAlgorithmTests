@@ -1,0 +1,6 @@
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/bin/Debug/SearchAlgorithmTests.exe
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/bin/Debug/SearchAlgorithmTests.pdb
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/obj/x86/Debug/SearchAlgorithmTests.csprojResolveAssemblyReference.cache
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/obj/x86/Debug/SearchAlgorithmTests.csproj.CoreCompileInputs.cache
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/obj/x86/Debug/SearchAlgorithmTests.exe
+/Users/kibo/Projects/SearchAlgorithmTests/SearchAlgorithmTests/obj/x86/Debug/SearchAlgorithmTests.pdb
